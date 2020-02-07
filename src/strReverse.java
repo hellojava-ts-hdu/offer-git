@@ -38,9 +38,4 @@ public class strReverse {
         }
         return String.valueOf(str1);
     }
-    public static void swap(char m,char n){
-        char t = m;
-        m = n;
-        n = t;
-    }
 }
