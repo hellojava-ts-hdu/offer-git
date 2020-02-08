@@ -1,3 +1,7 @@
+/*
+雪花算法用于生成分布式的ID
+ */
+
 public class xuehuaAlogri {
     /**
      * 起始的时间戳
