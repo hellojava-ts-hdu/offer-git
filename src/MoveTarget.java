@@ -1,7 +1,7 @@
 /**
  * @ClassName: MoveTarget
  * @Description: TODO
- * @author: Bruce Young
+ * @author: Bruce  Young
  * @date: 2020年02月02日 17:47
  */
 public class MoveTarget {
